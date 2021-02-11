@@ -1,0 +1,20 @@
+th, td{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+h1{
+    font-family: cursive;
+    color: gray;
+}
+.table{
+    border-style: solid;
+    border-width: thick;
+    border-color: crimson;
+    border-radius: 25px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-radius: 25px;
+    text-align: center;
+}
